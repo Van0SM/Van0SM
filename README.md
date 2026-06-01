@@ -33,11 +33,11 @@ unstable but productive
 ```
 
 
-## current obsession (текущая одержимость) :\
-- backend architecture (бэкенд архитектура)
-- telegram bots (телеграмм боты)
-- async programming (асинхронное программирование)
-- turning psychological damage into repositories (конвертация психологического урона в репозитории и проекты)
+## current obsession :\
+- backend architecture
+- telegram bots
+- async programming
+- turning psychological damage into repositories
 
 
 ```bash
