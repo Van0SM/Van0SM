@@ -1,16 +1,58 @@
-## Hi there 👋
+# > hello_world
 
-<!--
-**Van0SM/Van0SM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```bash
+> whoami
+van0sm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> current_status
+learning backend and slowly losing sanity
+
+> stack
+python fastapi postgres
+
+> mood
+unstable but productive
+```
+
+
+## О себе (o-O)
+16-летнее существо, изо всех сил пытающееся не потерять благоразумие и адекватность. 
+Учусь писать продакшн-код, за который не будет стыдно. 
+
+Каждый репозиторий здесь - частичка меня самого, и в этой частичке будут заключены все мои переживания, настроения, проблемы, победы - вообще все, что как-то характеризует меня. 
+
+Смотрите мои проекты, как на экспрессионизм в искусстве - я в них раскрываю душу, состояние, а не пытаюсь сделать что-то идеальное.
+
+
+```txt
+[████████████::] backend progression
+[████::::::::::] async understanding
+[██████████████] creativity
+[██::::::::::::] mental stability
+```
+
+
+## current obsession (текущая одержимость) :\
+- backend architecture (бэкенд архитектура)
+- telegram bots (телеграмм боты)
+- async programming (асинхронное программирование)
+- turning psychological damage into repositories (конвертация психологического урона в репозитории и проекты)
+
+
+```bash
+WARNING:
+author may disappear for 3 days (maybe months) after discovering one new backend concept
+WARNING:
+do NOT run any code from this profile
+it's probably safe for your PC,
+but definitely not for your mentality
+
+Are you sure you want to dive into the deepest parts of my psyche? (Y/N):
+> No
+
+Wrong answer.
+
+> final words
+welcome to the chaos
+```
