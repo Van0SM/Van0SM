@@ -48,7 +48,7 @@ do NOT run any code from this profile
 it is probably safe for your PC,
 but definitely not for your mentality
 
-Are you sure you want to dive into the deepest parts of my psyche? (Y/N):
+Are you sure you want to dive into the deepest parts of my psyche? (Yes/No):
 > No
 
 Wrong answer.
