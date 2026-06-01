@@ -45,7 +45,7 @@ WARNING:
 author may disappear for 3 days (maybe months) after discovering one new backend concept
 WARNING:
 do NOT run any code from this profile
-it's probably safe for your PC,
+it is probably safe for your PC,
 but definitely not for your mentality
 
 Are you sure you want to dive into the deepest parts of my psyche? (Y/N):
